@@ -164,7 +164,7 @@ export default function Page() {
                   I like building things
                 </h2>
                 <p className="text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                  Till now, I only attended 2 hackathons. I like competitions so but I couldnt participate that much earle, and at the future I'&apos;ll do my best to attend as many as I can to have fun and strenghten my skills. 
+                  Till now, I only attended 2 hackathons. I like competitions but I couldnt participate that much earlier, and at the future I will do my best to attend as many as I can to have fun and strenghten my skills. 
                 </p>
               </div>
             </div>

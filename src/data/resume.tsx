@@ -299,15 +299,15 @@ export const DATA = {
   hackathons: [
     {
        title: "Sample title",
-      dates: "Sample date",
-       location: "London, Ontario",
+       dates: "Sample date",
+       location: "Sample",
        description:
-         "Developed a mobile application which delivered bedtime stories to children using augmented reality.",
+         "Sample description.",
        image:
         "https://pub-83c5db439b40468498f97946200806f7.r2.dev/hackline/hack-western.png",
        mlh: "https://s3.amazonaws.com/logged-assets/trust-badge/2019/mlh-trust-badge-2019-white.svg",
        links: [],
-    // },
+     },
     // {
     //   title: "Hack The North",
     //   dates: "September 14th - 16th, 2018",
@@ -682,3 +682,4 @@ export const DATA = {
     // },
   ],
 } as const;
+

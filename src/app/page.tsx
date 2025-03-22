@@ -164,12 +164,7 @@ export default function Page() {
                   I like building things
                 </h2>
                 <p className="text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                  During my time in university, I attended{" "}
-                  {DATA.hackathons.length}+ hackathons. People from around the
-                  country would come together and build incredible things in 2-3
-                  days. It was eye-opening to see the endless possibilities
-                  brought to life by a group of motivated and passionate
-                  individuals.
+                  Till now, I only attended 2 hackathons. I like competitions so but I couldnt participate that much earle, and at the future I'll do my best to attend as many as I can to have fun and strenghten my skills. 
                 </p>
               </div>
             </div>

@@ -65,18 +65,18 @@ export const DATA = {
   },
 
   work: [
-    // {
-    //   company: "Atomic Finance",
-    //   href: "https://atomic.finance",
-    //   badges: [],
-    //   location: "Remote",
-    //   title: "Bitcoin Protocol Engineer",
-    //   logoUrl: "/atomic.png",
-    //   start: "May 2021",
-    //   end: "Oct 2022",
-    //   description:
-    //     "Implemented the Bitcoin discreet log contract (DLC) protocol specifications as an open source Typescript SDK. Dockerized all microservices and setup production kubernetes cluster. Architected a data lake using AWS S3 and Athena for historical backtesting of bitcoin trading strategies. Built a mobile app using react native and typescript.",
-    // },
+     {
+       company: "Team Leader Center",
+       href: "https://atomic.finance",
+       badges: [],
+       location: "Local",
+       title: "Web developper / Technician",
+      logoUrl: "/atomic.png",
+       start: "June 2024",
+       end: "Oct 2024",
+       description:
+         "Implemented a web application ( information system ) to track students registrations and manage internal activuties",
+     },
     // {
     //   company: "Shopify",
     //   badges: [],
@@ -139,14 +139,14 @@ export const DATA = {
     // },
   ],
   education: [
-    // {
-    //   school: "Buildspace",
-    //   href: "https://buildspace.so",
-    //   degree: "s3, s4, sf1, s5",
-    //   logoUrl: "/buildspace.jpg",
-    //   start: "2023",
-    //   end: "2024",
-    // },
+     {
+       school: "EMIT",
+       href: "https://emit.mg",
+       degree: "s1, s2, s3, s4, s5, s6",
+       logoUrl: "/buildspace.jpg",
+       start: "2023",
+       end: "2025",
+     },
     // {
     //   school: "University of Waterloo",
     //   href: "https://uwaterloo.ca",
@@ -173,34 +173,34 @@ export const DATA = {
     // },
   ],
   projects: [
-    // {
-    //   title: "Chat Collect",
-    //   href: "https://chatcollect.com",
-    //   dates: "Jan 2024 - Feb 2024",
-    //   active: true,
-    //   description:
-    //     "With the release of the [OpenAI GPT Store](https://openai.com/blog/introducing-the-gpt-store), I decided to build a SaaS which allows users to collect email addresses from their GPT users. This is a great way to build an audience and monetize your GPT API usage.",
-    //   technologies: [
-    //     "Next.js",
-    //     "Typescript",
-    //     "PostgreSQL",
-    //     "Prisma",
-    //     "TailwindCSS",
-    //     "Stripe",
-    //     "Shadcn UI",
-    //     "Magic UI",
-    //   ],
-    //   links: [
-    //     {
-    //       type: "Website",
-    //       href: "https://chatcollect.com",
-    //       icon: <Icons.globe className="size-3" />,
-    //     },
-    //   ],
-    //   image: "",
-    //   video:
-    //     "https://pub-83c5db439b40468498f97946200806f7.r2.dev/chat-collect.mp4",
-    // },
+     {
+       title: "Sample title",
+       href: "https://decizio.online",
+       dates: "Jan 2024 - Feb 2024",
+       active: true,
+       description:
+         "Sample description.",
+       technologies: [
+         "Next.js",
+         "Typescript",
+         "PostgreSQL",
+         "Prisma",
+         "TailwindCSS",
+         "Stripe",
+         "Shadcn UI",
+         "Magic UI",
+       ],
+       links: [
+         {
+           type: "Website",
+           href: "https://decizio.online",
+           icon: <Icons.globe className="size-3" />,
+         },
+       ],
+       image: "",
+       video:
+         "https://pub-83c5db439b40468498f97946200806f7.r2.dev/chat-collect.mp4",
+     },
     // {
     //   title: "Magic UI",
     //   href: "https://magicui.design",
@@ -297,16 +297,16 @@ export const DATA = {
     // },
   ],
   hackathons: [
-    // {
-    //   title: "Hack Western 5",
-    //   dates: "November 23rd - 25th, 2018",
-    //   location: "London, Ontario",
-    //   description:
-    //     "Developed a mobile application which delivered bedtime stories to children using augmented reality.",
-    //   image:
-    //     "https://pub-83c5db439b40468498f97946200806f7.r2.dev/hackline/hack-western.png",
-    //   mlh: "https://s3.amazonaws.com/logged-assets/trust-badge/2019/mlh-trust-badge-2019-white.svg",
-    //   links: [],
+    {
+       title: "Sample title",
+      dates: "Sample date",
+       location: "London, Ontario",
+       description:
+         "Developed a mobile application which delivered bedtime stories to children using augmented reality.",
+       image:
+        "https://pub-83c5db439b40468498f97946200806f7.r2.dev/hackline/hack-western.png",
+       mlh: "https://s3.amazonaws.com/logged-assets/trust-badge/2019/mlh-trust-badge-2019-white.svg",
+       links: [],
     // },
     // {
     //   title: "Hack The North",
